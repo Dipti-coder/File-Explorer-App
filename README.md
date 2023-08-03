@@ -16,7 +16,7 @@ A File Explorer app for Android that allows users to browse and manage files on 
 
 ## Screenshots
 
-![Screenshot_20230803-001528 651](https://github.com/Dipti-coder/File-Explorer-App/assets/83566655/57c2c4c4-cf30-49f8-9e34-e8921b0eb0c0)
+![Screenshot_20230803-001528 651](https://github.com/Dipti-coder/File-Explorer-App/assets/83566655/57c2c4c4-cf30-49f8-9e34-e8921b0eb0c0 width="300")
 ![Screenshot_20230803-001534 653](https://github.com/Dipti-coder/File-Explorer-App/assets/83566655/101acfca-fb3f-4311-9c5f-85a4d6dabfc8)
 ![Screenshot_20230803-001539 648](https://github.com/Dipti-coder/File-Explorer-App/assets/83566655/9e0e3b4f-11e9-466d-9f58-0f74180c0f5b)
 ![Screenshot_20230803-001552 649](https://github.com/Dipti-coder/File-Explorer-App/assets/83566655/8d321ab2-ec28-4337-bdc1-4c870d959abb)
